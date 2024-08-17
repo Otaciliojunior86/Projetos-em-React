@@ -5,8 +5,7 @@ import {ToastContainer} from 'react-toastify';
 export default function App() {
   return (
     <div className="app">
-      <Routes />
-      <ToastContainer autoClose={3000}/>
+      <h1>loja 7</h1>
     </div>
   );
 }
